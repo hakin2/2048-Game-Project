@@ -1,2 +1,2 @@
-# Portfolio
-# This portfolio contains personal projects and code
+# 2048 project
+# This repository contains personal projects!
